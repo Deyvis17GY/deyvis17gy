@@ -13,5 +13,5 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvis17gy&show_icons=true&locale=en&layout=compact" alt="deyvis17gy" /></p>
 
-<p style="margin:200px 0">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deyvis17gy&show_icons=true&locale=en" alt="deyvis17gy" /></p>
+<p>&nbsp;<img style="margin:10px 0" align="center" src="https://github-readme-stats.vercel.app/api?username=deyvis17gy&show_icons=true&locale=en" alt="deyvis17gy" /></p>
 
