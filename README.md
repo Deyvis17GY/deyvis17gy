@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deyvis</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-📫 How to reach me **deyvisjaime17@gmail.com**
+📫 How to reach me **https://linkedin.com/in/deyvisdev**
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deyvisdev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeyvisMarinos) 
